@@ -1,0 +1,25 @@
+{
+  "name": "electron-playground",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/necraidan/electron-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/necraidan/electron-playground/issues"
+  },
+  "homepage": "https://github.com/necraidan/electron-playground#readme",
+  "dependencies": {
+    "electron": "^1.6.10"
+  },
+  "devDependencies": {
+    "electron-packager": "^8.7.1"
+  }
+}
